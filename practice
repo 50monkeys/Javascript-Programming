@@ -1,0 +1,13 @@
+/* My first javascript code
+* 10/20/2018
+*
+* Get Programming with JavaScript
+* Listing 1.1
+* Using console.log
+*/
+
+console.log("Hello, World!");
+console.log("Hello, my name is Kreera");
+
+
+// This is a single-line comment
